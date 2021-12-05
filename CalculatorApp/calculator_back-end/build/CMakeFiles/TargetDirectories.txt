@@ -1,0 +1,3 @@
+/home/lewi/Documents/Projects/web_app_with_cpp/calculator_back-end/build/CMakeFiles/rebuild_cache.dir
+/home/lewi/Documents/Projects/web_app_with_cpp/calculator_back-end/build/CMakeFiles/edit_cache.dir
+/home/lewi/Documents/Projects/web_app_with_cpp/calculator_back-end/build/CMakeFiles/CalculatorAPI.dir
